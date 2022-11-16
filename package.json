@@ -19,6 +19,7 @@
     "url": "http://github.com/zaach/jsonlint/issues"
   },
   "main": "lib/jsonlint.js",
+  "typings": "lib/jsonlint.d.ts",
   "bin": {
     "jsonlint": "lib/cli.js"
   },
